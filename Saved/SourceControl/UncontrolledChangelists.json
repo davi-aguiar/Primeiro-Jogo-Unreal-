@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/davia/OneDrive/Documentos/Unreal Projects/UNREAL PROJECTS/WarehouseWreckage/WarehouseWreckage/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"C:/Users/davia/OneDrive/Documentos/Unreal Projects/UNREAL PROJECTS/WarehouseWreckage/WarehouseWreckage/Content/StarterContent/Maps/Minimal_Default.umap",
+				"C:/Users/davia/OneDrive/Documentos/Unreal Projects/UNREAL PROJECTS/WarehouseWreckage/WarehouseWreckage/Content/StarterContent/Maps/BP_Procjectile.uasset",
+				"C:/Users/davia/OneDrive/Documentos/Unreal Projects/UNREAL PROJECTS/WarehouseWreckage/WarehouseWreckage/Content/MainMap.umap",
+				"C:/Users/davia/OneDrive/Documentos/Unreal Projects/UNREAL PROJECTS/WarehouseWreckage/WarehouseWreckage/Content/IndustryPropsPack6/Meshes/SM_Barrel01.uasset",
+				"C:/Users/davia/OneDrive/Documentos/Unreal Projects/UNREAL PROJECTS/WarehouseWreckage/WarehouseWreckage/Content/IndustryPropsPack6/Meshes/BP_Barrel.uasset"
+			]
+		}
+	]
+}
